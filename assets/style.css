@@ -38,6 +38,17 @@ p {
     margin: 50px 200px;
 }
 
+li:hover {
+    opacity: 70%;
+}
+
+#initials-form {
+    display: none;
+    margin: 0 auto;
+    justify-content: space-between;
+    
+}
+
 #start {
     border-radius: 50px;
     margin: 0 auto;
